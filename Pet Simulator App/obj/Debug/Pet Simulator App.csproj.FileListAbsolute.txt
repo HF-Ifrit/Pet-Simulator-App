@@ -1,0 +1,11 @@
+c:\users\kaius\documents\visual studio 2015\Projects\Pet Simulator App\Pet Simulator App\bin\Debug\Pet Simulator App.exe.config
+c:\users\kaius\documents\visual studio 2015\Projects\Pet Simulator App\Pet Simulator App\bin\Debug\Pet Simulator App.exe
+c:\users\kaius\documents\visual studio 2015\Projects\Pet Simulator App\Pet Simulator App\bin\Debug\Pet Simulator App.pdb
+c:\users\kaius\documents\visual studio 2015\Projects\Pet Simulator App\Pet Simulator App\obj\Debug\Pet Simulator App.csprojResolveAssemblyReference.cache
+c:\users\kaius\documents\visual studio 2015\Projects\Pet Simulator App\Pet Simulator App\obj\Debug\Pet_Simulator_App.frmMain.resources
+c:\users\kaius\documents\visual studio 2015\Projects\Pet Simulator App\Pet Simulator App\obj\Debug\Pet_Simulator_App.frmNewPet.resources
+c:\users\kaius\documents\visual studio 2015\Projects\Pet Simulator App\Pet Simulator App\obj\Debug\Pet_Simulator_App.Properties.Resources.resources
+c:\users\kaius\documents\visual studio 2015\Projects\Pet Simulator App\Pet Simulator App\obj\Debug\Pet Simulator App.csproj.GenerateResource.Cache
+c:\users\kaius\documents\visual studio 2015\Projects\Pet Simulator App\Pet Simulator App\obj\Debug\Pet Simulator App.exe
+c:\users\kaius\documents\visual studio 2015\Projects\Pet Simulator App\Pet Simulator App\obj\Debug\Pet Simulator App.pdb
+C:\Users\Kaius\documents\visual studio 2015\Projects\Pet Simulator App\Pet Simulator App\obj\Debug\Pet_Simulator_App.Manager.resources
